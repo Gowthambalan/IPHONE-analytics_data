@@ -34,7 +34,7 @@ Image engagement data: This data includes information about how people interact 
 
 
 <p>
-<img src="view-diagnostic-and-usage-data-on-iPhone.pngexif-metadata-iPhone-photo.png" height=340/>
+<img src="exif-metadata-iPhone-photo.png" height=340/>
 </p>  
 
 
