@@ -37,5 +37,17 @@ Image engagement data: This data includes information about how people interact 
 <img src="exif-metadata-iPhone-photo.png" height=340/>
 </p>  
 
+Privacy concerns: Some people may be concerned about the privacy implications of collecting analytics data about their images.
+Security concerns: There is a risk that analytics data about images could be hacked or used for malicious purposes.
+Data storage costs: Analytics data about images can be very large, which can make it expensive to store.
+Overall, analytics data for iPhone images can be a valuable tool for improving the iPhone's image features, personalizing the iPhone experience, and improving the quality of images that are taken with the iPhone's camera. However, it is important to be aware of the privacy and security implications of collecting analytics data about images.
+
+<h2> ANALYTICS DATA IMAGE (EXAMPLE)</h2>
+
+
+<p>
+<img src="data image.jpeg" height=340/>
+</p>  
+
 
 
