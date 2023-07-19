@@ -47,7 +47,8 @@ Overall, analytics data for iPhone images can be a valuable tool for improving t
 
 <p>
 <img src="data image.jpeg" height=340/>
-</p>  
+</p>  ![data image](https://github.com/Gowthambalan/IPHONE-analytics_data/assets/85231003/d955a4ec-eb8c-4a9a-ba91-e4e0c1f930dd)
+
 
 
 
