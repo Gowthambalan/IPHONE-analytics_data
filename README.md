@@ -34,7 +34,7 @@ Image engagement data: This data includes information about how people interact 
 
 
 <p>
-<img src="C:\Users\gowth\Downloadsexif-metadata-iPhone-photo.png" height=340/>
+<img src="exif-metadata-iPhone-photo.png" height=340/>
 </p>  
 
 Privacy concerns: Some people may be concerned about the privacy implications of collecting analytics data about their images.
