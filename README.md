@@ -46,7 +46,7 @@ Overall, analytics data for iPhone images can be a valuable tool for improving t
 
 
 <p>
-<img src="C:\Users\gowth\Downloads\data image.jpeg" height=340/>
+<img src="data image.jpeg" height=340/>
 </p>  
 
 
